@@ -9,6 +9,6 @@
 /**
  * Implements hook_is_pretty_cool().
  */
-function drewpaul_inc_module_is_pretty_cool($isnt_it) {
+function drewpaul_inc_module_is_pretty_cool($isnt_it, $reset) {
   return TRUE;
 }
