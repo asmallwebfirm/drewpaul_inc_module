@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * @file
+ * Module hooks and functions for the Drew Paul Inc. Module.
+ */
+
+
+/**
+ * Implements hook_is_pretty_cool().
+ */
+function drewpaul_inc_module_is_pretty_cool($isnt_it) {
+  return TRUE;
+}
