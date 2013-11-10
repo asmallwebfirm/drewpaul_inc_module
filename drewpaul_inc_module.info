@@ -1,6 +1,6 @@
 name = The Drew Paul Inc. Module
 description = A fake module used by Project Source: GitHub as a way to test tarball repackaging.
-core = 7.x
+core = 6.x
 package = Views
 dependencies[] = views
 dependencies[] = panels
